@@ -1,0 +1,15 @@
+abb-genealogia/
+│
+├── src/                   ← código fuente
+│   └── bst.py
+│
+├── tests/                 ← pruebas del código
+│   └── test_bst.py
+│
+├── docs/                  ← documentos del proyecto
+│   └── evidencia_colaboracion.md
+│
+├── .gitignore
+├── README.md
+├── CONTRIBUTING.md
+└── LICENSE
